@@ -1,22 +1,16 @@
 [
     {
         "Email": "jean@exemple.com",
-        " Prenom": " Jean",
-        " Nom": " Dupond",
-        " Age": " 34",
-        " Remarque": " \"Appel\u00c3\u00a9e lundi",
-        "null": [
-            " elle est int\u00c3\u00a9ress\u00c3\u00a9e\""
-        ]
+        "Prenom": " Jean",
+        "Nom": " Dupond",
+        "Age": " 34",
+        "Remarque": " \"Appel\u00c3\u00a9e lundi elle est int\u00c3\u00a9ress\u00c3\u00a9e\""
     },
     {
         "Email": "lucas@exemple.com",
-        " Prenom": " lucas",
-        " Nom": " Durand",
-        " Age": " 53",
-        " Remarque": " \"Appel\u00c3\u00a9 vendredi",
-        "null": [
-            " il n\u00e2\u20ac\u2122est PAS int\u00c3\u00a9ress\u00c3\u00a9\""
-        ]
+        "Prenom": " lucas",
+        "Nom": " Durand",
+        "Age": " 53",
+        "Remarque": " \"Appel\u00c3\u00a9 vendredi il n\u00e2\u0080\u0099est PAS int\u00c3\u00a9ress\u00c3\u00a9\""
     }
 ]
