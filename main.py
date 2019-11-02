@@ -1,3 +1,13 @@
 import csv, json, codecs
 
-codecs.open('output.json', 'w').write(json.dumps([row for row in csv.DictReader(codecs.open(r'listings.csv', encoding='latin1'))], indent=4))
+# read the csv file
+source = codecs.open('listings.csv', encoding='utf-8')
+
+# parse the csv into json object
+data = json.dumps([row for row in csv.DictReader(source)], indent=4)
+
+# prepare the output file
+output = codecs.open('output.json', 'w')
+
+# write the final result
+output.write(data)

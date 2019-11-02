@@ -4,13 +4,13 @@
         "Prenom": " Jean",
         "Nom": " Dupond",
         "Age": " 34",
-        "Remarque": " \"Appel\u00c3\u00a9e lundi elle est int\u00c3\u00a9ress\u00c3\u00a9e\""
+        "Remarque": " \"Appel\u00e9e lundi elle est int\u00e9ress\u00e9e\""
     },
     {
         "Email": "lucas@exemple.com",
         "Prenom": " lucas",
         "Nom": " Durand",
         "Age": " 53",
-        "Remarque": " \"Appel\u00c3\u00a9 vendredi il n\u00e2\u0080\u0099est PAS int\u00c3\u00a9ress\u00c3\u00a9\""
+        "Remarque": " \"Appel\u00e9 vendredi il n\u2019est PAS int\u00e9ress\u00e9\""
     }
 ]
